@@ -1,4 +1,7 @@
-body{
+/* Visto - apague este comentário depois */
+/* Faltou um ponto final para indicar que está aplicando formatação no ambiente .body */
+
+.body{
     font-family: Arial, Helvetica, sans-serif;
     background-image: image(imagem-logo-colégio.jpeg);
 }
